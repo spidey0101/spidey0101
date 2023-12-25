@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I've worked on:
 
- **Projects**(https://github.com/spidey0101?tab=repositories) 
+ -[Projects](https://github.com/spidey0101?tab=repositories) 
 
 
 ## 🌱 What I'm Currently Learning
