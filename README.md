@@ -32,6 +32,12 @@ I'm currently focused on improving my skills in Android Development.
 - [Email](mailto:roshanavinash@outlook.com) 
 - [Email](mailto:myselfnothing000@gmail.com) --> For project collaboration.
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spidey0101&show_icons=true&locale=en&layout=compact" alt="spidey0101" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spidey0101&show_icons=true&locale=en" alt="spidey0101" /></p>
+
+
 Feel free to reach out if you'd like to collaborate on a project, have questions, or just want to connect!
 
 Thanks for visiting my GitHub profile! 😄
